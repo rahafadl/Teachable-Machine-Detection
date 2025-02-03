@@ -47,7 +47,7 @@ INSERT INTO detection_counts (count) VALUES (0);
 
 3️⃣ تشغيل المشروع
 
-    ضع الملفات داخل مجلد htdocs ,إذا كنت تستخدم XAMPP.
+    XAMPPضع الملفات داخل مجلد htdocs , إذا كنت تستخدم XAMPP.
     شغل Apache و MySQL من XAMPP.
     افتح المتصفح واكتب:
 
