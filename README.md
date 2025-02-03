@@ -22,7 +22,10 @@ Teachable Machine Detection
 🔹 AI Model: Teachable Machine (by Google)
 🔹 Backend: PHP, MySQL
 🔹 Database: MySQL (لتخزين العداد)
+
+
 ⚡ كيفية تشغيل المشروع محليًا؟
+
 1️⃣ إعداد البيئة
 
     تأكد من تثبيت XAMPP أو MAMP لتشغيل Apache + MySQL.
