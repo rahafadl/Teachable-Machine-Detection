@@ -49,7 +49,7 @@ INSERT INTO detection_counts (count) VALUES (0);
 
    htdocs ضع الملفات داخل مجلد  , XAMPP إذا كنت تستخدم 
    
-    شغل Apache و MySQL من XAMPP.
+     Apache و MySQL من XAMPP.شغل
     افتح المتصفح واكتب:
 
     http://localhost/index.html
