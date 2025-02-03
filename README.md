@@ -1,9 +1,6 @@
 # Teachable-Machine-Detection
 Teachable Machine Detection
 
-ابغا شرح مميز للقت هب
-قال ChatGPT:
-ChatGPT
 🚀 Teachable Machine Detection - AI-Powered Object Recognition
 
 🔍 مشروع يعتمد على الذكاء الاصطناعي لاكتشاف الكائنات باستخدام Teachable Machine وتخزين البيانات في قاعدة بيانات MySQL!
