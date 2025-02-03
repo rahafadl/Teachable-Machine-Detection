@@ -52,6 +52,7 @@ INSERT INTO detection_counts (count) VALUES (0);
 
    من XAMPP.
    Apache و MySQL شغل
+    
     افتح المتصفح واكتب:
 
     http://localhost/index.html
