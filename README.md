@@ -61,19 +61,6 @@ INSERT INTO detection_counts (count) VALUES (0);
 ┣ 📄 reset_counter.php → إعادة تعيين العداد.
 ┣ 📂 my_model/ → يحتوي على ملفات نموذج Teachable Machine (يتم إضافته بعد التدريب).
 ┗ 📄 README.md → شرح المشروع.
-🌍 نشر المشروع على GitHub
-
-خطوات رفع المشروع على GitHub:
-
-    إنشاء مستودع جديد في GitHub.
-    استخدام الأوامر التالية في Terminal / Git Bash:
-
-git init
-git add .
-git commit -m "Initial commit - AI Detection"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main
 
 🎯 كيف يعمل المشروع؟
 
