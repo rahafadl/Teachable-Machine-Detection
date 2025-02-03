@@ -48,8 +48,8 @@ INSERT INTO detection_counts (count) VALUES (0);
 3️⃣ تشغيل المشروع
 
    htdocs ضع الملفات داخل مجلد  , XAMPP إذا كنت تستخدم 
-   
-     Apache و MySQL من XAMPP.شغل
+   من XAMPP.
+   Apache و MySQL شغل
     افتح المتصفح واكتب:
 
     http://localhost/index.html
