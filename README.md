@@ -69,6 +69,7 @@ INSERT INTO detection_counts (count) VALUES (0);
 ┣ 📄 reset_counter.php → إعادة تعيين العداد.
 
 ┣ 📂 my_model/ → يحتوي على ملفات نموذج Teachable Machine (يتم إضافته بعد التدريب).
+
 🔹 ملاحظة هامة: لا تنسَ إرفاق ملفات النموذج داخل مجلد my_model/ 
 
 📂 my_model/
